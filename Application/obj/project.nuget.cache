@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UVSxA5q5zTR1dUAMCNnLeZwe6rqqtthw0eDPgeXeFKaTte+uZxiStFPJu5SkXnCXh7cr0Erkh6844MPjOdSl6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\piotr\\source\\repos\\MyNotes\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\piotr\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\piotr\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\piotr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\piotr\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
